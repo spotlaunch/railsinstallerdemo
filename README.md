@@ -1,0 +1,4 @@
+railsinstallerdemo
+==================
+
+attempt 1
